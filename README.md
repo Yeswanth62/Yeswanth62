@@ -61,8 +61,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yeswanth62&theme=discord&no-frame=true&column=7&margin-w=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yeswanth62&theme=discord&no-frame=true&column=8&margin-w=25" alt="GitHub Trophy" />
 </p>
+
 ---
 <!--
 ### 📊 GitHub Profile Metrics
