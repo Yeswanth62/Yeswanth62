@@ -1,8 +1,9 @@
 <!-- 🖼️ Banner Image -->
+<!--
 <p align="center">
   <img src="https://i.imgur.com/8q2ZYBp.png" alt="Yeswanth Banner" width="100%" />
 </p>
-
+-->
 <h1 align="center">Hi 👋, I'm Yeswanth</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer & Computer Science Student</h3>
 
@@ -52,7 +53,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeswanth62&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeswanth62&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="47%" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeswanth62&layout=compact&theme=radical&hide_border=true&border_radius=10" width="47%" />
 </p>
 
@@ -63,10 +64,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Yeswanth62&theme=discord&no-frame=true&column=7&margin-w=15" alt="GitHub Trophy" />
 </p>
 ---
-
+<!--
 ### 📊 GitHub Profile Metrics
 <img src="https://raw.githubusercontent.com/Yeswanth62/Yeswanth62/main/github-metrics.svg" alt="Metrics" width="100%" />
-
+-->
 
 ## 📬 Contact Me
 
