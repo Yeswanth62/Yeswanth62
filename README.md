@@ -1,6 +1,6 @@
 <!-- Banner with Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-user-id" width="200" style="border-radius: 50%;" alt="Yeswanth's profile" />
+  <img src="[https://avatars.githubusercontent.com/u/your-github-user-id](https://imgur.com/a/QLzOjSz)" width="200" style="border-radius: 50%;" alt="Yeswanth's profile" />
 </p>
 
 <h1 align="center" style="color: #fff; font-size: 3rem;">Hi 👋, I'm Yeswanth</h1>
