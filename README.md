@@ -25,26 +25,7 @@
 ![Followers](https://img.shields.io/github/followers/Yeswanth62?style=for-the-badge&color=feca57&labelColor=000000)
 
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yeswanth%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20Developer%20%7C%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Yeswanth+S+%F0%9F%91%8B;Full+Stack+%7C+MERN+Developer;Data+Engineer+%7C+ML+Enthusiast;Building+cool+stuff+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeswanth-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yeswanth62)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swanthswanth1@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%206369427738-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916369427738)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yeswanth62&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-
-</div>
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
